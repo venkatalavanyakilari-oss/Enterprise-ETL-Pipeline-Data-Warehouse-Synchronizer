@@ -1,0 +1,14 @@
+etl_project/
+│
+├── src/
+│   ├── api_client.py
+│   ├── api_extractor.py
+│   └── models.py
+│
+├── tests/
+│   └── test_api.py
+│
+├── .env
+├── .gitignore
+├── requirements.txt
+└── main.py 

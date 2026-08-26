@@ -1,0 +1,8 @@
+pip install requests python-dotenv pydantic pytest
+
+requirements.txt
+
+requests
+python-dotenv
+pydantic
+pytest
